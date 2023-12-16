@@ -2,6 +2,8 @@
 
 Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database for backend; CSS, Bootstrap, HTML, Javascript on the frontend.
 
+Tomcat 9 server was used to run the web application.
+
 
 Contains the main website with the homepage, users' posts, comments, contact page; 	
 
