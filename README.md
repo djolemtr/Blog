@@ -3,9 +3,9 @@
 Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database for backend; CSS, Bootstrap, HTML, Javascript on the frontend.
 
 
-Contains a frontend: the main website with the homepage, users' posts, comments, contact page; 	
+Contains the main website with the homepage, users' posts, comments, contact page; 	
 
-Backend part where the users can log in to manage their profiles and posts, while the admin can also manage users, categories, tags, comments, read messages; 
+Admin part where the users can log in to manage their profiles and posts, while the admin can also manage users, categories, tags, comments, read messages; 
 
 Posts can be searched by various criteria, can be hidden or pinned as important; 
 
