@@ -1,6 +1,6 @@
 # Blog
 
-Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database;
+Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database for backend; CSS, Bootstrap, HTML, Javascript on the frontend.
 
 
 Contains a frontend: the main website with the homepage, users' posts, comments, contact page; 	
