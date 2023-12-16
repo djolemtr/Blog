@@ -1,5 +1,16 @@
 # Blog
 
+Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database;
+
+
+Contains a front end: the main website with the homepage, users' posts, comments, contact page; 	
+
+Back end part where the users can log in to manage their profiles and posts, while the admin can also manage users, categories, tags, comments, read messages; 
+
+Posts can be searched by various criteria, can be hidden or pinned as important; 
+
+Page titles are SEO optimized.
+
 
 
 ![Screenshot 2023-12-08 222156](https://github.com/djolemtr/Blog/assets/113414071/95872f6c-a184-4076-b342-e04bbd433dd3)
