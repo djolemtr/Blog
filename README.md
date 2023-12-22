@@ -7,7 +7,7 @@
 **Features:**
 
 - The main website with the homepage, users' posts, comments, contact page; 	
-- Admin part where the users can log in to manage their profile and posts, while the admin can manage users, categories, tags, comments, messages;
+- Admin part where the users can log in to manage their profile and posts, while the admin can manage/add users, categories, tags, comments, messages;
 - Posts can be searched by various criteria, can be hidden or pinned as important;
 - Page titles are SEO optimized.
 
