@@ -1,19 +1,17 @@
-# Blog
+**Specifications:**
 
-Technologies used: Java, Spring MVC, Spring Security, Hibernate, MySQL database for backend; CSS, Bootstrap, HTML, Javascript on the frontend.
+- Back-end: Java, Spring (MVC, Security), Hibernate, MySQL/MariaDB database;
+- Front-end: CSS, Bootstrap, HTML, Javascript;
+- Tomcat 9 server;
 
-Tomcat 9 server was used to run the web application.
+**Features:**
 
+- The main website with the homepage, users' posts, comments, contact page; 	
+- Admin part where the users can log in to manage their profile and posts, while the admin can manage users, categories, tags, comments, messages;
+- Posts can be searched by various criteria, can be hidden or pinned as important;
+- Page titles are SEO optimized.
 
-Contains the main website with the homepage, users' posts, comments, contact page; 	
-
-Admin part where the users can log in to manage their profiles and posts, while the admin can also manage users, categories, tags, comments, read messages; 
-
-Posts can be searched by various criteria, can be hidden or pinned as important; 
-
-Page titles are SEO optimized.
-
-
+**Preview:**
 
 ![Screenshot 2023-12-08 222156](https://github.com/djolemtr/Blog/assets/113414071/95872f6c-a184-4076-b342-e04bbd433dd3)
 
