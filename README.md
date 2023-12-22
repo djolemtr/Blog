@@ -2,7 +2,7 @@
 
 - Back-end: Java, Spring (MVC, Security), Hibernate, MySQL/MariaDB database;
 - Front-end: CSS, Bootstrap, HTML, Javascript;
-- Tomcat 9 server;
+- Tomcat 9 server.
 
 **Features:**
 
