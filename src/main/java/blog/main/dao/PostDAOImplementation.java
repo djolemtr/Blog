@@ -15,6 +15,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
+import blog.main.entity.Comment;
 import blog.main.entity.DateAndTime;
 import blog.main.entity.Post;
 
@@ -111,6 +112,14 @@ public class PostDAOImplementation implements PostDAO {
 		Session session = sessionFactory.getCurrentSession();
 
 		Post p = session.get(Post.class, id);
+		
+		List<Comment> comments = commentDAO.commentListByPost(p.getId());
+		
+		for (Comment c : comments) {
+			
+			commentDAO.delete(c.getId());
+			
+		}
 
 		session.delete(p);
 
