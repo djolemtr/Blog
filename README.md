@@ -3,7 +3,7 @@
 - Open the project in Spring Tool Suite;
 - Import the BlogDatabase with your preffered database management platform. Disabling foreign key check while importing is recommended in order to successfully import the database;
 - Run the project on server (using Tomcat 9 server preferably);
-- All the users' passwords are the same as their username;
+- Users and admin passwords are the same as their username;
 - Change everything to your liking.
 
 **Specifications:**
