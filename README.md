@@ -6,20 +6,20 @@
 - Users and admin passwords are the same as their username;
 - Change everything to your liking.
 
-**Specifications:**
+**Specifications**
 
 - Back-end: Java, Spring (MVC, Security), Hibernate, MySQL/MariaDB database;
 - Front-end: CSS, Bootstrap, HTML, Javascript;
 - Tomcat 9 server.
 
-**Features:**
+**Features**
 
 - The main website with the homepage, users' posts, comments, contact page; 	
 - Admin part where the users can log in to manage their profile and posts, while the admin can manage/add users, categories, tags, comments, messages;
 - Posts can be searched by various criteria, can be hidden or pinned as important;
 - Page titles are SEO optimized.
 
-**Preview:**
+**Previews**
 
 ![Screenshot 2023-12-08 222156](https://github.com/djolemtr/Blog/assets/113414071/95872f6c-a184-4076-b342-e04bbd433dd3)
 
