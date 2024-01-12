@@ -1,6 +1,6 @@
 **Quickstart**
 
-- Open the project in Spring Tool Suite;
+- Clone the repository and open the project in Spring Tool Suite;
 - Import the BlogDatabase with your preffered database management platform;
 - Run the project on server (using Tomcat 9 server preferably);
 - Users' and admin passwords are the same as their username;
