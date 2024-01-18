@@ -1,16 +1,15 @@
 **Quickstart**
 
 - Clone the repository and open the project in Spring Tool Suite;
-- Import the BlogDatabase with your preffered database management platform;
-- Run the project on server (using Tomcat 9 server preferably);
+- Import the BlogDatabase;
+- Run the project on server (Tomcat);
 - Users' and admin passwords are the same as their username;
-- Change everything to your liking.
 
 **Specifications**
 
-- Back-end: Java, Spring (MVC, Security), Hibernate, MySQL/MariaDB database;
-- Front-end: CSS, Bootstrap, HTML, Javascript;
-- Tomcat 9 server.
+- Backend: Java, Spring (MVC, Security) Hibernate, MySQL/MariaDB database;
+- Frontend: Bootstrap, JavaScript;
+- Tomcat server.
 
 **Features**
 
