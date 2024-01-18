@@ -7,7 +7,7 @@
 
 **Specifications**
 
-- Backend: Java, Spring (MVC, Security) Hibernate, MySQL/MariaDB database;
+- Backend: Java, Spring (MVC, Security), Hibernate, MySQL/MariaDB database;
 - Frontend: Bootstrap, JavaScript;
 - Tomcat server.
 
